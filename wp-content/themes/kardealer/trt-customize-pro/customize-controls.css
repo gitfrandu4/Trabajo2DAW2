@@ -1,0 +1,22 @@
+/*
+#customize-controls .control-section-kardealer .accordion-section-title:hover,
+#customize-controls .control-section-kardealer .accordion-section-title:focus {
+	background-color: #fff;
+}
+*/
+
+/* .control-section-kardealer, .accordion-section-title, .button-kardealer { */
+.button-kardealer {
+	margin-top:  -4px !important;
+/*	font-weight: 00;
+	margin-left: 8px;
+	*/
+	color: red !important;
+}
+
+/*
+	.rtl .control-section-kardealer, .accordion-section-title, .button {
+		margin-left:  0;
+		margin-right: 8px;
+	}
+	*/
